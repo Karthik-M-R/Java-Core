@@ -12,25 +12,6 @@ This repository contains interview-oriented Java concepts with:
 
 ---
 
-# 📚 Repository Structure
-
-```
-Java-Core-Mastery-/
-
-├── 01-Java-Fundamentals
-├── 02-Core-OOP
-├── 03-Object-Class
-├── 04-Packages
-├── 05-Exception-Handling
-├── 06-Wrapper-Classes
-├── 07-Enums
-├── 08-Collections
-├── 09-Generics
-├── 10-Java-8
-├── 11-Multithreading
-├── 12-JVM
-├── 13-Interview-Special
-```
 
 ---
 
@@ -145,16 +126,7 @@ Java-Core-Mastery-/
 
 ---
 
-## Interview Special
 
-- == vs equals()
-- StringBuilder vs StringBuffer
-- final vs finally vs finalize
-- Serialization
-- Immutable Class
-- Composition vs Inheritance
-
----
 
 # 🎯 Who is this Repository For?
 
